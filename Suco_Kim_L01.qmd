@@ -33,7 +33,7 @@ citation-location: margin
 
 The goal of this lab is to review machine learning/predictive modeling vocabulary and concepts covered in Data Science 2 with R (STAT 301-2).
 
-## Questions
+## Questions:white_check_mark:
 
 When completing the following questions ensure your solutions are neatly formatted and clearly indicated. Consider including diagrams/images in some of your solutions, if it helps to make things easier to describe/discuss.
 
